@@ -1,6 +1,10 @@
 # Reinforcement Learning: Cliff Walking
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmood-Anaam/reinforcement-learning-cliff-walking/blob/main/reinforcement-learning-cliff-walking.ipynb)
 ## Overview
 This repository contains the implementation of two fundamental reinforcement learning algorithms, **Q-learning** and **SARSA**, applied to the **Cliff Walking** environment. The project explores how these algorithms learn to navigate the gridworld, avoid the cliff, and reach the goal while minimizing penalties.
+
+![Cliff Walking Environment](cliff_walking.gif)
+
 
 ## Key Concepts
 - **Parts:**
@@ -13,8 +17,3 @@ This repository contains the implementation of two fundamental reinforcement lea
   - Implement and evaluate the SARSA algorithm.
   - Compare and analyze the optimal policies derived from both algorithms.
 
-## Usage
-1. **Open the Jupyter Notebook:**
-   - Locate and open `Practical_6_Reinforcement_Learning-2.ipynb`.
-2. **Run the Notebook:**
-   - Execute the cells in sequence to observe the implementation process, the learning outcomes, and the comparative analysis of Q-learning and SARSA.
